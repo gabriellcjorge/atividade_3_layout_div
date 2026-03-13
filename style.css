@@ -1,0 +1,38 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .fundo{
+        background-color: #0069c0;
+        width: 660px;
+        margin: 0 auto;
+        padding: 10px;
+    }
+
+    .flex{
+        display: flex;
+    }
+
+    .amarelo{
+        background-color: #edf222;
+        padding: 80px;
+        margin: 5px;
+        border: 1000px;
+        text-align: center;
+    }
+
+    .esticar {
+        padding-right: 279px;
+    }
+
+    .titulo {
+        font-size: 40px;
+        color: rgb(255, 255, 255);
+        background-color: #2196f3;
+        text-align: center;
+        margin-bottom: 20px;
+        width: 660px;
+        margin: 0 auto;
+    }
